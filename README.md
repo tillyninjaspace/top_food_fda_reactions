@@ -1,5 +1,5 @@
 # Top Food FDA Reactions
-This is how I created my plot in R for the Data Analytics Capstone Project
+These are the step that I took to create my plot in R for the Data Analytics Capstone Project.
 
 ---
 title: "Top Reactions By Food FDA"
