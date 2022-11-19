@@ -2,11 +2,11 @@
 These are the step that I took to create my plot in R for the Data Analytics Capstone Project.
 
 ---
-title: "Top Reactions By Food FDA"
+title: Top Reactions By Food FDA
 
-author: "Tilly Wright"
+author: Tilly Wright
 
-date: "2022-11-17"
+date: 2022-11-17
 
 output:
 
