@@ -8,7 +8,7 @@ author: Tilly Wright
 
 date: 2022-11-17
 
-Analysis tools include SQL for BigQuery dataset, Tableau for visualization and R Studio more analysis and plotting.
+Analysis tools include SQL for BigQuery dataset, Tableau for visualization and R Studio for more analysis and plotting.
 
 ---
 
