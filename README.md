@@ -8,11 +8,8 @@ author: Tilly Wright
 
 date: 2022-11-17
 
-output:
+Analysis tools include SQL for BigQuery dataset, Tableau for visualization and R Studio more analysis and plotting.
 
-  html_document: default
-  word_document: default
-  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
